@@ -1,0 +1,56 @@
+[33mcommit 7376538067dcfd2f7026bdf3f72352e49606058e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:54:20 2025 -0700
+
+    removed code
+
+[33mcommit 6629c0d8bd244d5b1b7fb68345378f63386e4cec[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 15bcadb 2c710a2
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:51:02 2025 -0700
+
+    Resolved function conflict
+
+[33mcommit 15bcadbcb915a83a6d4a2f567f33d85ded275688[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:48:59 2025 -0700
+
+    Added say function
+
+[33mcommit 2c710a2eda8f57b172ab3d3bf272a6706c9b69d3[m
+Merge: ca95c9a fec3803
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 20:44:23 2025 +0000
+
+    Merge branch 'main' of https://github.com/loganjwright/Conflicts
+
+[33mcommit ca95c9ae8463d11baab657bcb0e1f39995358e6a[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 20:42:42 2025 +0000
+
+    Added function
+
+[33mcommit fec3803a690ae1b43ea9af726d648beb083b4e2e[m
+Merge: af8d86d 522556e
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:41:13 2025 -0700
+
+    Conflict Resolved
+
+[33mcommit af8d86dd119d69346d73c000cdd2948458330321[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:29:36 2025 -0700
+
+    Hey?
+
+[33mcommit 522556e49735b981ce56719ec1dbd9d610e95c89[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 20:26:50 2025 +0000
+
+    Main Created
+
+[33mcommit 3daa9808ad77848b26dacf0faf589d81490fffc4[m
+Author: loganjwright <loganjwright1616@gmail.com>
+Date:   Wed Mar 26 13:19:36 2025 -0700
+
+    Initial commit
